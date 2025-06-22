@@ -5,7 +5,7 @@ import tempfile
 import zipfile
 
 
-BROADCAST_PORT = 50000
+BROADCAST_PORT = 40000
 BUFFER_SIZE = 4096
 RECEIVE_TIMEOUT = 60  # seconds for discovering sender
 SAVE_DIR = "sharepoint"
